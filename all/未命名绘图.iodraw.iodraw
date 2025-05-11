@@ -60,6 +60,11 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-16" target="MK3ejZALPPzLjQgGDxlv-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MK3ejZALPPzLjQgGDxlv-20">
+          <mxGeometry x="-0.0286" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-16" value="读取ac24c02" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
         </mxCell>
