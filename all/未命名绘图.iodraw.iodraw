@@ -33,6 +33,11 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-5" target="MK3ejZALPPzLjQgGDxlv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MK3ejZALPPzLjQgGDxlv-13">
+          <mxGeometry x="-0.0222" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-5" value="判断按键4是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="310" width="130" height="80" as="geometry" />
         </mxCell>
