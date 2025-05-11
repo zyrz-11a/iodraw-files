@@ -36,7 +36,7 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-7" target="MK3ejZALPPzLjQgGDxlv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-7" value="读取ac24c02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-7" value="写入当前值到ac24c02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
