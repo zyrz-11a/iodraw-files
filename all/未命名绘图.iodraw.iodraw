@@ -43,17 +43,22 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-5" value="判断按键4是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="310" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-7" target="MK3ejZALPPzLjQgGDxlv-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-7" value="写入当前值到ac24c02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-15" target="MK3ejZALPPzLjQgGDxlv-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-15" value="判断按键5是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="480" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
