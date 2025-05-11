@@ -74,7 +74,7 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-19" target="MK3ejZALPPzLjQgGDxlv-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MK3ejZALPPzLjQgGDxlv-26">
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-29" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MK3ejZALPPzLjQgGDxlv-26">
           <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,6 +87,11 @@
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-24" target="MK3ejZALPPzLjQgGDxlv-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-30" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MK3ejZALPPzLjQgGDxlv-23">
+          <mxGeometry x="-0.0118" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-24" value="判断7是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="750" width="130" height="80" as="geometry" />
