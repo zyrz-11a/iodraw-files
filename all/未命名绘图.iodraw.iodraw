@@ -18,8 +18,8 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-4" value="读取温度、时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-5" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="310" width="80" height="80" as="geometry" />
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-5" value="判断按键是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="310" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
