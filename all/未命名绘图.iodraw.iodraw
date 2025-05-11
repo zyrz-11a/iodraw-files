@@ -57,8 +57,14 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-15" value="判断按键5是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="480" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-16" target="MK3ejZALPPzLjQgGDxlv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-16" value="读取ac24c02" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-19" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
