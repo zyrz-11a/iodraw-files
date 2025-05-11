@@ -18,10 +18,11 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-4" value="读取温度、时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-5" target="MK3ejZALPPzLjQgGDxlv-7">
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="MK3ejZALPPzLjQgGDxlv-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="350.0000000000001" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="605" y="350" />
+              <mxPoint x="185" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,7 +45,7 @@
           <mxGeometry x="330" y="310" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-7" value="写入当前值到ac24c02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-15" target="MK3ejZALPPzLjQgGDxlv-16">
           <mxGeometry relative="1" as="geometry" />
