@@ -66,6 +66,9 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-19" target="MK3ejZALPPzLjQgGDxlv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-19" target="MK3ejZALPPzLjQgGDxlv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MK3ejZALPPzLjQgGDxlv-19" value="判断6是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="620" width="130" height="80" as="geometry" />
         </mxCell>
@@ -75,10 +78,10 @@
         <mxCell id="MK3ejZALPPzLjQgGDxlv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MK3ejZALPPzLjQgGDxlv-24" target="MK3ejZALPPzLjQgGDxlv-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-24" value="判断6是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-24" value="判断7是否按下" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="750" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MK3ejZALPPzLjQgGDxlv-25" value="读取上一个存入的值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MK3ejZALPPzLjQgGDxlv-25" value="读取下一个存入的值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
