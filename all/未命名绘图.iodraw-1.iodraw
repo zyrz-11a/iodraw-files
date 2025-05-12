@@ -77,12 +77,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="810" as="sourcePoint" />
             <mxPoint x="960" y="900" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="900" />
+              <mxPoint x="880" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -115,17 +115,6 @@
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-35" value="关闭灯光补偿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="962.5" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-35">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1170" y="890" as="sourcePoint" />
-            <mxPoint x="770" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1130" y="900" />
-              <mxPoint x="1130" y="680" />
-              <mxPoint x="770" y="680" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-23" target="HHrLJ90K1n0oMcEAo6ZU-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
