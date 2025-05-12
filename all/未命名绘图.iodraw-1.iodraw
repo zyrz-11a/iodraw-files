@@ -39,7 +39,7 @@
           <mxGeometry x="205" y="840" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-15" value="返回记录当前时间和数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-18">
           <mxGeometry relative="1" as="geometry">
@@ -63,7 +63,7 @@
           <mxGeometry x="205" y="1130" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-24" value="切换上一个时间和数值显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1220" width="130" height="60" as="geometry" />
+          <mxGeometry x="390" y="1140" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
