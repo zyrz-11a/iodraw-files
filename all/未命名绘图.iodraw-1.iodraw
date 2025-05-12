@@ -85,8 +85,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="890" y="900" width="80" height="80" as="geometry" />
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MUC&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="890" y="900" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
