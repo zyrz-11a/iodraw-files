@@ -80,12 +80,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-6">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="710" as="sourcePoint" />
-            <mxPoint x="750" y="700" as="targetPoint" />
+            <mxPoint x="560" y="620" as="sourcePoint" />
+            <mxPoint x="750" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="700" />
+              <mxPoint x="560" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,22 +111,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-31" value="光照是否小于额定值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="660" width="115" height="80" as="geometry" />
+          <mxGeometry x="755" y="670" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-32" value="开启灯光补偿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="752.5" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="752.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-35" value="关闭灯光补偿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="752.5" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="752.5" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="690" as="sourcePoint" />
-            <mxPoint x="560" y="530" as="targetPoint" />
+            <mxPoint x="960" y="700" as="sourcePoint" />
+            <mxPoint x="560" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="700" />
-              <mxPoint x="920" y="480" />
-              <mxPoint x="560" y="480" />
+              <mxPoint x="920" y="710" />
+              <mxPoint x="920" y="490" />
+              <mxPoint x="560" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
