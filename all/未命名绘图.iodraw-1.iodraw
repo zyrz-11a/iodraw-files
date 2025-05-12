@@ -13,7 +13,7 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-4" target="HHrLJ90K1n0oMcEAo6ZU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-4" value="初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-4" value="LCD1602,DS1302初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
