@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="-CIVlgzq9_q673SzYpJN">
-    <mxGraphModel dx="993" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,19 +16,19 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-4" value="LCD1602,DS1302初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-6" target="HHrLJ90K1n0oMcEAo6ZU-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-6" value="光敏检测PCF8591" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-10">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="920" as="targetPoint" />
+            <mxPoint x="350" y="779.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-10" value="DHT11" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-6" value="光照与温度检测PCF8591DHT11" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.9999999999998" y="839.9999999999998" as="sourcePoint" />
+            <mxPoint x="350" y="920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-14" target="HHrLJ90K1n0oMcEAo6ZU-15">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHrLJ90K1n0oMcEAo6ZU-36">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-38" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHrLJ90K1n0oMcEAo6ZU-36">
           <mxGeometry x="-0.3204" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
