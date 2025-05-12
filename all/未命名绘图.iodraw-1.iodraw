@@ -53,11 +53,6 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-15" value="返回记录当前时间和数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-18" value="显示时间和温湿度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
@@ -67,9 +62,9 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-24" value="切换上一个时间和数值显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-23">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="1230" as="sourcePoint" />
+            <mxPoint x="510" y="1050" as="sourcePoint" />
             <mxPoint x="550" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="1100" />
