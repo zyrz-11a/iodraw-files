@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="-CIVlgzq9_q673SzYpJN">
-    <mxGraphModel dx="1588" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,15 +8,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-4" target="HHrLJ90K1n0oMcEAo6ZU-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="484.79" y="450.0000000000002" as="sourcePoint" />
-            <mxPoint x="634.79" y="650.0000000000002" as="targetPoint" />
+            <mxPoint x="694.79" y="460.0000000000002" as="sourcePoint" />
+            <mxPoint x="844.79" y="660.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="530" />
-              <mxPoint x="460" y="760" />
+              <mxPoint x="670" y="540" />
+              <mxPoint x="670" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -24,10 +24,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-4" value="LCD1602,DS1302初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-6" value="光照与温度检测PCF8591DHT11" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-14" target="HHrLJ90K1n0oMcEAo6ZU-15">
           <mxGeometry relative="1" as="geometry" />
@@ -46,22 +46,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-14" value="检测按键1是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="660" width="110" height="80" as="geometry" />
+          <mxGeometry x="505" y="670" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-15" value="返回记录当前时间和数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="950" as="targetPoint" />
+            <mxPoint x="560" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-18" value="显示时间和温湿度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479.9999999999998" y="990" as="targetPoint" />
+            <mxPoint x="689.9999999999998" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-26" value="y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHrLJ90K1n0oMcEAo6ZU-25">
@@ -70,29 +70,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-23" value="检测按键2是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="950" width="110" height="80" as="geometry" />
+          <mxGeometry x="505" y="960" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-24" value="切换上一个时间和数值显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="960" width="130" height="60" as="geometry" />
+          <mxGeometry x="690" y="970" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1220" as="sourcePoint" />
-            <mxPoint x="340" y="620" as="targetPoint" />
+            <mxPoint x="470" y="1230" as="sourcePoint" />
+            <mxPoint x="550" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="1090" />
-              <mxPoint x="200" y="1090" />
-              <mxPoint x="40" y="1090" />
-              <mxPoint x="50" y="620" />
+              <mxPoint x="560" y="1100" />
+              <mxPoint x="410" y="1100" />
+              <mxPoint x="250" y="1100" />
+              <mxPoint x="260" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="800" as="sourcePoint" />
-            <mxPoint x="750" y="890" as="targetPoint" />
+            <mxPoint x="770" y="810" as="sourcePoint" />
+            <mxPoint x="960" y="900" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="890" />
+              <mxPoint x="770" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,22 +118,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-31" value="光照是否小于额定值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="850" width="115" height="80" as="geometry" />
+          <mxGeometry x="965" y="860" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-32" value="开启灯光补偿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="752.5" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="962.5" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-35" value="关闭灯光补偿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="752.5" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="962.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="880" as="sourcePoint" />
-            <mxPoint x="560" y="720" as="targetPoint" />
+            <mxPoint x="1170" y="890" as="sourcePoint" />
+            <mxPoint x="770" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="890" />
-              <mxPoint x="920" y="670" />
-              <mxPoint x="560" y="670" />
+              <mxPoint x="1130" y="900" />
+              <mxPoint x="1130" y="680" />
+              <mxPoint x="770" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
