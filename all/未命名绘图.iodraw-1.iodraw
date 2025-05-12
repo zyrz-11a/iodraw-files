@@ -14,10 +14,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="530.0000000000002" as="sourcePoint" />
             <mxPoint x="515" y="730.0000000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="531" />
-              <mxPoint x="440" y="730" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-4" target="HHrLJ90K1n0oMcEAo6ZU-14">
