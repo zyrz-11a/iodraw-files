@@ -54,7 +54,10 @@
           <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-18" value="显示时间和温湿度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-23" target="HHrLJ90K1n0oMcEAo6ZU-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-23" value="检测按键2是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="810" width="110" height="80" as="geometry" />
@@ -67,7 +70,7 @@
             <mxPoint x="510" y="1050" as="sourcePoint" />
             <mxPoint x="550" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="565" y="1100" />
+              <mxPoint x="560" y="1100" />
               <mxPoint x="410" y="1100" />
               <mxPoint x="250" y="1100" />
               <mxPoint x="260" y="630" />
