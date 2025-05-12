@@ -30,8 +30,19 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-10" value="DHT11" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-14" target="HHrLJ90K1n0oMcEAo6ZU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-17" value="y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHrLJ90K1n0oMcEAo6ZU-16">
+          <mxGeometry x="-0.0381" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-14" value="检测按键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="920" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="920" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-15" value="记录时间和数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
