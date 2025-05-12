@@ -30,7 +30,7 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-10" value="DHT11" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-14" value="检测按键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="920" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
