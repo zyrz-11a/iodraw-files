@@ -10,8 +10,15 @@
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-4" target="HHrLJ90K1n0oMcEAo6ZU-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HHrLJ90K1n0oMcEAo6ZU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="530.0000000000002" as="sourcePoint" />
+            <mxPoint x="515" y="730.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="531" />
+              <mxPoint x="440" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HHrLJ90K1n0oMcEAo6ZU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHrLJ90K1n0oMcEAo6ZU-4" target="HHrLJ90K1n0oMcEAo6ZU-14">
           <mxGeometry relative="1" as="geometry" />
